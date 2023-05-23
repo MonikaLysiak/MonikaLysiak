@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an AGH university student and I study Information Technology and Econometrics.
+
 <!--
 **MonikaLysiak/MonikaLysiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
