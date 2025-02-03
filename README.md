@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an AGH university student and I study Information Technology and Econometrics.
+I am a graduate of Computer Science and Econometrics at the AGH University of Science and Technology.
 
 <!--
 **MonikaLysiak/MonikaLysiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
