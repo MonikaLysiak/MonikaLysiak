@@ -2,8 +2,15 @@
 
 I am a graduate of Computer Science and Econometrics at the AGH University of Science and Technology.
 
+
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonikaLysiak&show_icons=true&count_private=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaLysiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- |
+
+
 <!--
 **MonikaLysiak/MonikaLysiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
